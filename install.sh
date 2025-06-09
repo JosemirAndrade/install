@@ -31,7 +31,7 @@ apt install google-chrome-stable -y firefox firefox-locale-pt
 apt remove --purge wine-stable -y
 
 echo "****** REMOVENDO O SCRIPT ****** "
-rm /home/$USER/in-stall
+rm /home/aluno/in-stall
 '
 #users-admin
 #xfce4-power-manager-settings
