@@ -30,10 +30,6 @@ apt install google-chrome-stable -y firefox firefox-locale-pt
 #echo "****** REMOVENDO O WINE DO SISTEMA ****** "
 apt remove --purge wine-stable -y
 
-#echo "****** CRIANDO UM USUÁRIO ADMINISTRADOR PARA O SISTEMA ****** "
-#adduser administrador
-#sudo useradd -m aluno
-
 echo "****** REMOVENDO O SCRIPT ****** "
 rm ~/in-stall
 '
